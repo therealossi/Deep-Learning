@@ -1,0 +1,6 @@
+Bitte ankreuzen und ausfüllen:
+
+[   ] Ich habe die hier eingereichten Praktikumsaufgaben alleine bearbeitet.
+[ X ] Die Praktikumsaufgaben haben wir als Gruppe bearbeitet (jedes Mitglied muss das Jupyter Notebook einreichen!).
+Die Gruppe bestand aus folgenden Mitgliedern: (1) Dominic Pascal Lischtschuk, (2) Maximilian Ostrowski, (3) Erik Noah Bätz, (4) Marius Huke
+(Gruppen bestehend aus 2-4 Studenten sind erlaubt)
